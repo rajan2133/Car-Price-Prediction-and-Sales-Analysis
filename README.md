@@ -47,7 +47,7 @@ The primary machine learning algorithm used is Linear Regression.
 The sales analysis will explore:
 - Sales trends over time
 - Average Price Analysis
-- SCars Sold Metrics
+- Cars Sold Metrics
 - Impact of external factors such as economic conditions and regulatory changes
 
 ## Visualization
